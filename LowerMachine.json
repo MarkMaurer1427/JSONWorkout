@@ -1,0 +1,17 @@
+{
+    "Lower Body Machine Set":
+    [
+        {
+            "ID": 0,
+            "Flexor Exercise": "Seated Leg Curl",
+            "Extensor Exercise": "Leg Extension",
+            "Weights": [170, 155, 140, 125]
+        },
+        {
+            "ID": 1,
+            "Flexor Exercise": "Hip Adductors",
+            "Extensor Exercise": "Hip Abductors",
+            "Weights": [180, 165, 160, 145]
+        }
+    ]
+}

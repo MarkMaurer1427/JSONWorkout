@@ -1,0 +1,30 @@
+{
+    "Lower Body Free Weights":
+    [
+        {
+            "ID":0,
+            "Name": "Squat Press",
+            "Weights": [220,200,180,160]
+        },
+        {
+            "ID": 1,
+            "Name": "Hack Squat",
+            "Weights": [160, 140, 120, 100]
+        },
+        {
+            "ID": 2,
+            "Name": "Leg Press",
+            "Weights": [900,860,810,760]
+        },
+        {
+            "ID": 3,
+            "Name": "Calf",
+            "Weights": [225,215,205,195]
+        },
+        {
+            "ID": 4,
+            "Name": "Dumbbell Deadlift",
+            "Weights": [60,55,45,35]
+        }
+    ]
+}

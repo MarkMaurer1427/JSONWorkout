@@ -1,0 +1,15 @@
+C:\Users\Owner\Desktop\Repos\JSONWorkout\bin\Debug\netcoreapp3.1\JSONWorkout.exe
+C:\Users\Owner\Desktop\Repos\JSONWorkout\bin\Debug\netcoreapp3.1\JSONWorkout.deps.json
+C:\Users\Owner\Desktop\Repos\JSONWorkout\bin\Debug\netcoreapp3.1\JSONWorkout.runtimeconfig.json
+C:\Users\Owner\Desktop\Repos\JSONWorkout\bin\Debug\netcoreapp3.1\JSONWorkout.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\Repos\JSONWorkout\bin\Debug\netcoreapp3.1\JSONWorkout.dll
+C:\Users\Owner\Desktop\Repos\JSONWorkout\bin\Debug\netcoreapp3.1\JSONWorkout.pdb
+C:\Users\Owner\Desktop\Repos\JSONWorkout\obj\Debug\netcoreapp3.1\JSONWorkout.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Repos\JSONWorkout\obj\Debug\netcoreapp3.1\JSONWorkout.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Repos\JSONWorkout\obj\Debug\netcoreapp3.1\JSONWorkout.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Repos\JSONWorkout\obj\Debug\netcoreapp3.1\JSONWorkout.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Repos\JSONWorkout\obj\Debug\netcoreapp3.1\JSONWorkout.dll
+C:\Users\Owner\Desktop\Repos\JSONWorkout\obj\Debug\netcoreapp3.1\JSONWorkout.pdb
+C:\Users\Owner\Desktop\Repos\JSONWorkout\obj\Debug\netcoreapp3.1\JSONWorkout.genruntimeconfig.cache
+C:\Users\Owner\Desktop\Repos\JSONWorkout\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Owner\Desktop\Repos\JSONWorkout\obj\Debug\netcoreapp3.1\JSONWorkout.csproj.CopyComplete

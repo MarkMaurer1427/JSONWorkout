@@ -1,0 +1,34 @@
+{
+    "Upper Body Machine Set":
+    [
+        
+        {
+            "ID": 0,
+            "Flexor Exercise" : "Bicep Curl",
+            "Extensor Exercise" : "Tricep Curl",
+            "Weights" : [80, 70, 60, 50]
+        },
+        {
+            "ID": 1,
+            "Flexor Exercise": "Rear Deltoid",
+            "Extensor Exercise": "Pec Fly",
+            "Weights": [150, 140, 130, 120]
+        },
+        {
+            "ID": 2,
+            "Flexor Exercise": "Lat Pulldown",
+            "Extensor Exercise": "Shoulder Press",
+            "Weights": [90, 85, 80, 70]
+        },
+        {
+            "ID": 3,
+            "Flexor Exercise" : "Lat Row",
+            "Extensor Exercise" : "Chest Press",
+            "Weights": [165, 145, 125, 100]
+        }
+
+
+        
+    ]
+
+}

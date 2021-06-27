@@ -1,0 +1,25 @@
+{
+    "Upper Body Free Weights":
+    [
+        {
+            "ID":0,
+            "Name": "Dumbbell Bench",
+            "Weights": [60, 50, 40, 30]
+        },
+        {
+            "ID":1,
+            "Name": "Dumbbell Incline",
+            "Weights": [50, 40, 35, 30]
+        },
+        {
+            "ID": 2,
+            "Name": "Dumbbell Decline",
+            "Weights": [50, 40, 35, 30]
+        },
+        {
+            "ID": 3,
+            "Name": "Floor Lift",
+            "Weights": [50, 40, 35, 30]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Core Exercises":
+    [
+        {
+            "ID": 0,
+            "Name" : "Ab Crunch",
+            "Weight" : 50
+        },
+        {
+            "ID": 1,
+            "Name": "Torso Rotation",
+            "Weight": 180
+        },
+        {
+            "ID": 2,
+            "Name": "Lower Back",
+            "Weight": 150
+        },
+        {
+            "ID": 3,
+            "Name": "Ab Coaster",
+            "Weight": 40
+        },
+        {
+            "ID": 4,
+            "Name": "Dumbbell Obliques",
+            "Weight": 45
+        }
+    ]
+}
